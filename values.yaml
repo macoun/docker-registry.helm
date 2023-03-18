@@ -100,6 +100,7 @@ secrets:
 #  rootdirectory: /object/prefix
 #  encrypt: false
 #  secure: true
+#  skipverify: false
 
 # Options for swift storage type:
 # swift:
